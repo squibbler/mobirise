@@ -153,7 +153,8 @@
             ".mbr-section-title SPAN": {
               "text-align": "center",
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -175,12 +176,12 @@
             "overlay": true,
             "overlayOpacity": "0.3",
             "overlayColor": "#000000",
-            "contentAlign": "left",
+            "contentAlign": "right",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">squibbler</span><br>",
+          "title": "<br><br><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">squibbler</span><br>",
           "text": "<span style=\"line-height: 1.5;\">the website | squibbler.github.io/mobirise</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
