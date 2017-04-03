@@ -74,13 +74,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#00755d"
+              "background": "#2a4545"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#009979!important"
+              "background": "#375b5b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#00a885"
+              "background": "#3d6565"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -99,7 +99,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3v",
           "_params": {
-            "bgColor": "#00a885",
+            "bgColor": "#3d6565",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
@@ -155,8 +155,8 @@
               "text-align": "center",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#000000",
-              "font-size": "72px"
+              "color": "#e9915e",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -176,14 +176,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><span style=\"line-height: 1.1;\">squibbler</span><br>",
+          "title": "<br><span style=\"line-height: 1.1;\">squibbler</span><br>",
           "text": "<span style=\"line-height: 1.5;\">www.squibbler.github.io/online</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
@@ -191,7 +191,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#00a885"
+              "color": "#e9915e"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a",
@@ -394,13 +394,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#00755d"
+              "background": "#2a4545"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#009979!important"
+              "background": "#375b5b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#00a885"
+              "background": "#3d6565"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -419,7 +419,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4g",
           "_params": {
-            "bgColor": "#00a885",
+            "bgColor": "#3d6565",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
@@ -475,7 +475,8 @@
               "text-align": "center",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#000000"
+              "color": "#e9915e",
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -495,14 +496,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><br><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">squibbler</span><br>",
+          "title": "<br><span style=\"line-height: 1.1;\">squibbler</span><br>",
           "text": "The Website | Blog<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
