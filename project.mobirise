@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 186,
+    "uniqCompNum": 190,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -54,13 +54,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#cccccc"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#cccccc"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#cccccc",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -74,16 +74,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#deaa05"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#fac10d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#fac51c"
             },
             ".bg-color.transparent .link": {
-              "color": "#cccccc",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -744,40 +744,20 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#000000"
-            }
-          },
+          "alias": "deltapieditor",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header3",
-          "_anchor": "header3-54",
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-58",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "_customHTML": "<section class=\"mbr-section mbr-section__container article\" id=\"header3-54\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2\" style=\"text-align:left;\"><br>Welcome to my new blog</h3>\n                <small class=\"mbr-section-subtitle\" style=\"text-align:left;\">April 2, 2017 | Editor</small>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section class=\"mbr-section article mbr-section__container\" id=\"content1-55\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead\"><p>Welcome to my website and blog. It's been a while waiting for the opportunity to work on this. It's not easy with 4 kids work and everything else in life that seems to take up the rest of the hours in a day. I have always wanted a blog, but have been discouraged by Wordpress, much because of the functionality of some of the plugins that don't seem to work all the time.&nbsp;</p><p><br></p><p>When we think of blogging, we&nbsp;</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n\n</section>\n",
+            "_customCSS": "",
+            "ExtEdit": false
           },
-          "title": "<br>Welcome to my new blog",
-          "meta": "April 2, 2017 | Editor"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-55",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Welcome to my website and blog. It's been a while waiting for the opportunity to work on this. It's not easy with 4 kids work and everything else in life that seems to take up the rest of the hours in a day. I have always wanted a blog, but have been discouraged by Wordpress, much because of the functionality of some of the plugins that don't seem to work all the time.&nbsp;</p><p><br></p><p>Blogging for me is a way of connecting to those who have an interesting perspective in life, and one that make me want to follow them. So as I travel down this journey, I hope to possibly find a few more contacts and hopefully more blogs to read, because everyone has a story to tell. So until next time, keep posted for new and interesting topics, and soon to have more pages.</p><p><br></p><p>Thanks&nbsp;</p><p><br></p><p>Joe&nbsp;</p><p>Editor/Site Manager</p>"
+          "_customCSS": "",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" id=\"header3-54\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2\" style=\"text-align:left;\"><br>Welcome to my new blog</h3>\n                <small class=\"mbr-section-subtitle\" style=\"text-align:left;\">April 2, 2017 | Editor</small>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section class=\"mbr-section article mbr-section__container\" id=\"content1-55\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead\"><p>Welcome to my website and blog. It's been a while waiting for the opportunity to work on this. It's not easy with 4 kids work and everything else in life that seems to take up the rest of the hours in a day. I have always wanted a blog, but have been discouraged by Wordpress, much because of the functionality of some of the plugins that don't seem to work all the time.&nbsp;</p><p><br></p><p>When we think of blogging, we&nbsp;</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n\n</section>\n",
+          "tinyeditor": ""
         },
         {
           "_tags": [
@@ -902,6 +882,22 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-59",
+          "_params": {
+            "_customHTML": "",
+            "_customCSS": "",
+            "ExtEdit": false
+          },
+          "_customCSS": "",
+          "_customHTML": "",
+          "tinyeditor": ""
         }
       ]
     }
