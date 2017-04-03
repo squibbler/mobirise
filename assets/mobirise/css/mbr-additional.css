@@ -455,19 +455,19 @@ h6,
 }
 #ext_menu-3v .link[aria-expanded="true"],
 #ext_menu-3v .dropdown-menu {
-  background: #deaa05;
+  background: #00755d;
 }
 #ext_menu-3v .nav-dropdown-sm .link:focus,
 #ext_menu-3v .nav-dropdown-sm .link:hover,
 #ext_menu-3v .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-3v .nav-dropdown-sm .dropdown-item:hover {
-  background: #fac10d!important;
+  background: #009979!important;
 }
 #ext_menu-3v .navbar,
 #ext_menu-3v .nav-dropdown-sm,
 #ext_menu-3v .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-3v .nav-dropdown-sm .dropdown-menu {
-  background: #fac51c;
+  background: #00a885;
 }
 #ext_menu-3v .bg-color.transparent .link {
   color: #000000;
@@ -494,17 +494,17 @@ h6,
   font-size: 18px;
 }
 #header5-7 .mbr-section-lead SPAN {
-  font-size: 20px;
+  font-size: 18px;
   color: #ffffff;
 }
 #header5-7 .mbr-section-title SPAN {
   text-align: center;
   font-family: 'Lato', sans-serif;
-  color: #efefef;
+  color: #000000;
   font-size: 72px;
 }
 #header5-1o .mbr-section-title {
-  color: #faaf40;
+  color: #00a885;
 }
 #header5-1o .mbr-section-lead {
   color: #9c9a9a;
@@ -563,19 +563,19 @@ h6,
 }
 #ext_menu-4g .link[aria-expanded="true"],
 #ext_menu-4g .dropdown-menu {
-  background: #deaa05;
+  background: #00755d;
 }
 #ext_menu-4g .nav-dropdown-sm .link:focus,
 #ext_menu-4g .nav-dropdown-sm .link:hover,
 #ext_menu-4g .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-4g .nav-dropdown-sm .dropdown-item:hover {
-  background: #fac10d!important;
+  background: #009979!important;
 }
 #ext_menu-4g .navbar,
 #ext_menu-4g .nav-dropdown-sm,
 #ext_menu-4g .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-4g .nav-dropdown-sm .dropdown-menu {
-  background: #fac51c;
+  background: #00a885;
 }
 #ext_menu-4g .bg-color.transparent .link {
   color: #000000;
@@ -608,13 +608,13 @@ h6,
 #header5-4h .mbr-section-title SPAN {
   text-align: center;
   font-family: 'Lato', sans-serif;
-  color: #fac51c;
+  color: #000000;
 }
-#header5-4k .mbr-section-title {
-  color: #fac51c;
+#header5-5e .mbr-section-title {
+  color: #000000;
 }
-#header5-4k .mbr-section-lead {
-  color: #9c9a9a;
+#header5-5e .mbr-section-lead {
+  color: #000000;
   font-size: 16px;
 }
 #contacts3-4l P {

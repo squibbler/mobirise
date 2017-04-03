@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "name": "Bliing | Home",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 190,
+    "uniqCompNum": 196,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -74,13 +74,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#00755d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#009979!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#00a885"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -99,7 +99,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3v",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#00a885",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
@@ -148,14 +148,14 @@
               "font-size": "18px"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "20px",
+              "font-size": "18px",
               "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
               "text-align": "center",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#efefef",
+              "color": "#000000",
               "font-size": "72px"
             }
           },
@@ -168,7 +168,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -176,220 +176,22 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "contentAlign": "right",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "<br><br><span style=\"line-height: 1.1;\">squibbler</span><br>",
-          "text": "<span style=\"line-height: 1.5;\">the website</span><br><span style=\"line-height: 1.5;\">squibbler.github.io/mobirise</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
+          "text": "<span style=\"line-height: 1.5;\">www.squibbler.github.io/online</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture-one-2000x2006-800x802.png",
-                "image": "@PROJECT_PATH@/assets/images/capture-one-2000x2006.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture2-1-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/capture2-1-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture3-2000x1979-800x791.png",
-                "image": "@PROJECT_PATH@/assets/images/capture3-2000x1979.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture4-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/capture4-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture5-2000x1965-800x786.png",
-                "image": "@PROJECT_PATH@/assets/images/capture5-2000x1965.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture6-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/capture6-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture7-2000x2006-800x802.png",
-                "image": "@PROJECT_PATH@/assets/images/capture7-2000x2006.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture8-2000x1993-800x797.png",
-                "image": "@PROJECT_PATH@/assets/images/capture8-2000x1993.png",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": true,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-3w",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": 0,
-            "showText": true,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-3x",
-          "articleLayout": false,
-          "allItem": "All"
         },
         {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#faaf40"
+              "color": "#00a885"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a",
@@ -420,8 +222,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "SOLID COLOR INTRO",
-          "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br><br><br>",
+          "title": "Welcome",
+          "text": "I'm glad you took the time to visit our page. I have wanted to do this for some time, but like you know there is only so much time in the day to do everything.&nbsp;<br><br>We built our page using Mobirise and other tools because of it's flexibility. We wanted everyone to be able to access it no matter what they were using to view it, typically a Smartphone or a Tablet.&nbsp;<br><br>In the coming months we will be adding features and content, so stay tuned. Updated information will be posted on Twitter and Instagram.<br><br><br>Thanks.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -454,7 +256,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -478,7 +280,7 @@
               "size": 0
             }
           },
-          "text1": "Bliing was designed with a <br>mobile-first approach, because we assume most people view our site on a phone or tablet. Please feel free to contact us.&nbsp;",
+          "text1": "Squibbler was designed with a <br>mobile-first approach, because we assume most people view our site on a phone or tablet. Please feel free to contact us.&nbsp;",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -514,7 +316,7 @@
               "color": "#ffffff"
             }
           },
-          "text4": "<p><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\">hello.bliingportal@zoho.com</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
+          "text4": "<p><a href=\"mailto:squibbler5245@gmail.com\" target=\"_blank\">Email Us</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\"></a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
           "title1": "",
           "text5": "",
           "text6": "",
@@ -592,13 +394,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#00755d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#009979!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#00a885"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -617,7 +419,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4g",
           "_params": {
-            "bgColor": "#fac51c",
+            "bgColor": "#00a885",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
@@ -673,7 +475,7 @@
               "text-align": "center",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#fac51c"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -685,7 +487,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
@@ -693,9 +495,9 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
-            "contentAlign": "right",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -708,10 +510,10 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#000000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a",
+              "color": "#000000",
               "font-size": "16px"
             }
           },
@@ -719,13 +521,13 @@
             "Theme"
           ],
           "_name": "header5",
-          "_anchor": "header5-4k",
+          "_anchor": "header5-5e",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -740,24 +542,8 @@
             "showButtons": false
           },
           "title": "Welcome",
-          "text": "Squibbler first started as a blog, hosted on Wordpress. But since, it has been dismantled and brought back to life as a website, hosted on Github. I searched in vain to find a hosting company that I liked, to no avail. Github was recommended by a friend, so I tried it. It has a bit of a learning curve at first, but then becomes easier to use. It allows you to record your progress, and even collaborate with others to help, if you so choose to..<br><br>Well, we are happy you decided to drop by. In the coming months we are creating our layout and content for our site, and look forward to sharing them with you.<br><br>Thanks.<br><br><br><br><br>",
+          "text": "Squibbler first started as a blog, hosted on Wordpress. But since, it has been dismantled and brought back to life as a website, hosted on Github. I searched in vain to find a hosting company that I liked, to no avail. Github was recommended by a friend, so I tried it. It has a bit of a learning curve at first, but then becomes easier to use. It allows you to record your progress, and even collaborate with others to help, if you so choose to..<br><br>Well, we are happy you decided to drop by. In the coming months we are creating our layout and content for our site, and look forward to sharing them with you.<br><br>Thanks.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-58",
-          "_params": {
-            "_customHTML": "<section class=\"mbr-section mbr-section__container article\" id=\"header3-54\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2\" style=\"text-align:left;\"><br>Welcome to my new blog</h3>\n                <small class=\"mbr-section-subtitle\" style=\"text-align:left;\">April 2, 2017 | Editor</small>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section class=\"mbr-section article mbr-section__container\" id=\"content1-55\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead\"><p>Welcome to my website and blog. It's been a while waiting for the opportunity to work on this. It's not easy with 4 kids work and everything else in life that seems to take up the rest of the hours in a day. I have always wanted a blog, but have been discouraged by Wordpress, much because of the functionality of some of the plugins that don't seem to work all the time.&nbsp;</p><p><br></p><p>When we think of blogging, we&nbsp;</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n\n</section>\n",
-            "_customCSS": "",
-            "ExtEdit": false
-          },
-          "_customCSS": "",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" id=\"header3-54\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2\" style=\"text-align:left;\"><br>Welcome to my new blog</h3>\n                <small class=\"mbr-section-subtitle\" style=\"text-align:left;\">April 2, 2017 | Editor</small>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section class=\"mbr-section article mbr-section__container\" id=\"content1-55\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead\"><p>Welcome to my website and blog. It's been a while waiting for the opportunity to work on this. It's not easy with 4 kids work and everything else in life that seems to take up the rest of the hours in a day. I have always wanted a blog, but have been discouraged by Wordpress, much because of the functionality of some of the plugins that don't seem to work all the time.&nbsp;</p><p><br></p><p>When we think of blogging, we&nbsp;</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n\n</section>\n",
-          "tinyeditor": ""
         },
         {
           "_tags": [
@@ -789,7 +575,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -813,7 +599,7 @@
               "size": 0
             }
           },
-          "text1": "Bliing was designed with a <br>mobile-first approach, because we assume most people view our site on a phone or tablet. Please feel free to contact us.&nbsp;",
+          "text1": "Squibbler was designed with a <br>mobile-first approach, because we assume most people view our site on a phone or tablet. Please feel free to contact us.&nbsp;",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -849,13 +635,13 @@
               "color": "#ffffff"
             }
           },
-          "text4": "<p><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\">hello.bliingportal@zoho.com</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
+          "text4": "<p><a href=\"mailto:squibbler5245@gmail.com\" target=\"_blank\">Email Us</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\"></a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
           "title1": "",
           "text5": "",
           "text6": "",
           "form": {
             "title": "MESSAGE",
-            "action": "hello.bliingportal@zoho.com",
+            "action": "squibbler5@outlook.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -882,22 +668,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
-        },
-        {
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-59",
-          "_params": {
-            "_customHTML": "",
-            "_customCSS": "",
-            "ExtEdit": false
-          },
-          "_customCSS": "",
-          "_customHTML": "",
-          "tinyeditor": ""
         }
       ]
     }
