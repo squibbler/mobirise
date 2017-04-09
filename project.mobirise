@@ -54,13 +54,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#e25041"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#e25041"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#e25041",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -74,16 +74,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#e25041",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -99,14 +99,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3v",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#e25041",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -462,14 +462,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4g",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#e25041",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
