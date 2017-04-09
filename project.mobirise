@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 206,
+    "uniqCompNum": 209,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -302,128 +302,31 @@
           "text": "<p><br></p><p><br></p><p><br></p><p>DIRECTIONS<div><br></div><div>1. In a large pot of salted boiling water, add spaghetti and cook until al dente, about 8 minutes. Drain water then return the spaghetti to the pot. Add 1 egg and the Parmesan and toss to combine.</div><div><br></div><div>2. Meanwhile, make sauce. In a large pot over medium, heat olive oil. Add onion and cook until tender, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add the ground beef, breaking up the meat with a wooden spoon, and cook until the meat is no longer pink, about 6 minutes. Drain fat then return the pot to medium heat and stir in tomato paste. Cook for 1 minute, then add the crushed tomatoes and oregano. Season with salt and pepper and simmer for 10 minutes.</div><div><br></div><div>3. In a medium bowl, combine ricotta and remaining egg. Stir to combine.</div><div><br></div><div>4. In a large baking dish, spoon a thin layer of sauce in the bottom of the dish. Top with half of the spaghetti noodles, cover with about half of the remaining sauce, half of the ricotta mixture and half of the mozzarella. Repeat once more. Bake until the cheese is melty and the lasagna is warmed through, about 20-30 minutes. Garnish with parsley.</div><div><br></div><div>INGREDIENTS</div><div>1 lb. spaghetti</div><div>2 eggs, lightly whisked (divided)</div><div>1/2 c. finely grated Parmesan</div><div>2 tbsp. extra-virgin olive oil</div><div>1 onion, chopped</div><div>3 garlic cloves, minced</div><div>1 lb. ground beef</div><div>2 tbsp. tomato paste</div><div>1 28 oz can crushed tomatoes</div><div>1/4 tsp. dried oregano</div><div>3 c. ricotta</div><div>3 c. shredded mozzarella</div><div>2 tbsp. chopped Italian parsley</div><div><br></div><div>SUBSCRIBE to delish: http://bit.ly/SUBSCRIBEtoDELISH</div><div><br></div><div>FOLLOW for more #DELISH!</div><div>Facebook: https://www.facebook.com/delish/</div><div>Twitter: https://twitter.com/DelishDotCom</div><div>Instagram: https://www.instagram.com/delish/</div><div>Pinterest: https://www.pinterest.com/source/deli...</div><div>Google+: https://plus.google.com/+delish/posts</div></p>"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "color": "#cccccc",
-              "font-size": "16px"
-            },
-            ".list-group-text": {
-              "color": "#c1c1c1",
-              "font-size": "16px"
-            },
-            "H4": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#000000",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "contacts3-5",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-5s",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000"
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x244.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "index.html",
-              "alt": "Squibbler Site Logo",
-              "title": "Squibbler | Home",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Squibbler was designed with a <br>mobile-first approach, because we assume most people view our site on a phone or tablet. Please feel free to contact us.&nbsp;",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "mobile",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": "48",
-              "color": "#ffffff"
-            }
-          },
-          "text2": "Works Great on Mobile&nbsp;",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "globe",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": "48",
-              "color": "#ffffff"
-            }
-          },
-          "text3": "Red Wing MN USA",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "envelope",
-              "family": "et-line",
-              "active": true,
-              "size": "48",
-              "color": "#ffffff"
-            }
-          },
-          "text4": "<p><a href=\"mailto:squibbler5@outlook.com\">Email Us</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\"></a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "hello.bliingportal@zoho.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"http://twitter.com/squibbler5\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/115366225438394161783\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCMP8GfNeiIAJuO3pJhddkdg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/squibbler5\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/squibbler5\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         }
       ]
     },
