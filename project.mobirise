@@ -284,8 +284,8 @@
             }
           },
           "title": "Recipe of the Week:<div>Spaghetti Lasagna</div>",
-          "text": "Always a favorite around our house is Spaghetti Lasagna<br>and not hard at all to make. Click down to view the recipe. Enjoy!!!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/channel/UCWMl6Xw3M37ti_C964vmYvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 28px; color: rgb(184, 49, 47);\"></span></a>"
+          "text": "Always a favorite around our house is Spaghetti Lasagna<br>and not hard at all to make. Click down to view the recipe. Enjoy!!!<br>Click on the Button below to go to the Delish&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/channel/UCWMl6Xw3M37ti_C964vmYvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 28px; color: rgb(184, 49, 47);\"></span></a>"
         },
         {
           "_tags": [
