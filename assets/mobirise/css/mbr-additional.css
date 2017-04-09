@@ -511,13 +511,16 @@ h6,
   font-size: 18px;
 }
 #header6-5x .mbr-section-title {
-  color: #28262b;
+  color: #f3c649;
 }
 #header6-5x .mbr-section-text {
-  color: #000000;
+  color: #ffffff;
 }
 #header6-5x .btn {
   font-family: 'Lato', sans-serif;
+}
+#header6-5x .mbr-section-title DIV {
+  color: #a38f84;
 }
 #htmlblock-block-5v H3 {
   color: #efefef;

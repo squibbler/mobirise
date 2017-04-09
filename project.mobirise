@@ -230,14 +230,17 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#f3c649"
             },
             ".mbr-section-text": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".btn": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#a38f84"
             }
           },
           "_tags": [
@@ -247,7 +250,7 @@
           "_anchor": "header6-5x",
           "_params": {
             "imageSize": 50,
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/spaghetti-lasagna-2-2000x1324.jpg",
             "bgColor": "#2e2e2e",
@@ -256,10 +259,10 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ccc",
-            "inverse": true,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -285,7 +288,7 @@
           },
           "title": "Recipe of the Week:<div>Spaghetti Lasagna</div>",
           "text": "Always a favorite around our house is Spaghetti Lasagna<br>and not hard at all to make. Click down to view the recipe. Enjoy!!!<br>Click on the Button below to go to the Delish YouTube Channel Hope you like it...&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/channel/UCWMl6Xw3M37ti_C964vmYvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 28px; color: rgb(184, 49, 47);\"></span></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/channel/UCWMl6Xw3M37ti_C964vmYvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Delish on YouTube&nbsp;<span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 28px; color: rgb(184, 49, 47);\"></span></a>"
         },
         {
           "_tags": [
