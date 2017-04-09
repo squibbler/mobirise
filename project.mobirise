@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 209,
+    "uniqCompNum": 214,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -236,21 +236,20 @@
               "color": "#000000"
             },
             ".btn": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "14px"
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header6",
-          "_anchor": "header6-5o",
+          "_anchor": "header6-5x",
           "_params": {
             "imageSize": 50,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/spaghetti-lasagna-1-2000x1324.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/spaghetti-lasagna-2-2000x1324.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -273,7 +272,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/_trAp2O2aRE?rel=0&showinfo=0",
+              "src": "https://www.youtube.com/embed/_trAp2O2aRE?showinfo=0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -284,9 +283,9 @@
               "size": 250
             }
           },
-          "title": "Recipe of the Week:<br>Spaghetti Lasagna",
-          "text": "Always a favorite around our house is Spaghetti Lasagna<br>and not hard at all to make. Click down to view the recipe. Enjoy!!!<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.youtube.com/channel/UCWMl6Xw3M37ti_C964vmYvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Delish Channel</a>"
+          "title": "Recipe of the Week:<div>Spaghetti Lasagna</div>",
+          "text": "Always a favorite around our house is Spaghetti Lasagna<br>and not hard at all to make. Click down to view the recipe. Enjoy!!!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/channel/UCWMl6Xw3M37ti_C964vmYvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 28px; color: rgb(184, 49, 47);\"></span></a>"
         },
         {
           "_tags": [
@@ -299,7 +298,68 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p><br></p><p>DIRECTIONS<div><br></div><div>1. In a large pot of salted boiling water, add spaghetti and cook until al dente, about 8 minutes. Drain water then return the spaghetti to the pot. Add 1 egg and the Parmesan and toss to combine.</div><div><br></div><div>2. Meanwhile, make sauce. In a large pot over medium, heat olive oil. Add onion and cook until tender, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add the ground beef, breaking up the meat with a wooden spoon, and cook until the meat is no longer pink, about 6 minutes. Drain fat then return the pot to medium heat and stir in tomato paste. Cook for 1 minute, then add the crushed tomatoes and oregano. Season with salt and pepper and simmer for 10 minutes.</div><div><br></div><div>3. In a medium bowl, combine ricotta and remaining egg. Stir to combine.</div><div><br></div><div>4. In a large baking dish, spoon a thin layer of sauce in the bottom of the dish. Top with half of the spaghetti noodles, cover with about half of the remaining sauce, half of the ricotta mixture and half of the mozzarella. Repeat once more. Bake until the cheese is melty and the lasagna is warmed through, about 20-30 minutes. Garnish with parsley.</div><div><br></div><div>INGREDIENTS</div><div>1 lb. spaghetti</div><div>2 eggs, lightly whisked (divided)</div><div>1/2 c. finely grated Parmesan</div><div>2 tbsp. extra-virgin olive oil</div><div>1 onion, chopped</div><div>3 garlic cloves, minced</div><div>1 lb. ground beef</div><div>2 tbsp. tomato paste</div><div>1 28 oz can crushed tomatoes</div><div>1/4 tsp. dried oregano</div><div>3 c. ricotta</div><div>3 c. shredded mozzarella</div><div>2 tbsp. chopped Italian parsley</div><div><br></div><div>SUBSCRIBE to delish: http://bit.ly/SUBSCRIBEtoDELISH</div><div><br></div><div>FOLLOW for more #DELISH!</div><div>Facebook: https://www.facebook.com/delish/</div><div>Twitter: https://twitter.com/DelishDotCom</div><div>Instagram: https://www.instagram.com/delish/</div><div>Pinterest: https://www.pinterest.com/source/deli...</div><div>Google+: https://plus.google.com/+delish/posts</div></p>"
+          "text": "<p><br></p><p><br></p><p><br></p><p>DIRECTIONS</p><div><br></div><div>1. In a large pot of salted boiling water, add spaghetti and cook until al dente, about 8 minutes. Drain water then return the spaghetti to the pot. Add 1 egg and the Parmesan and toss to combine.</div><div><br></div><div>2. Meanwhile, make sauce. In a large pot over medium, heat olive oil. Add onion and cook until tender, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add the ground beef, breaking up the meat with a wooden spoon, and cook until the meat is no longer pink, about 6 minutes. Drain fat then return the pot to medium heat and stir in tomato paste. Cook for 1 minute, then add the crushed tomatoes and oregano. Season with salt and pepper and simmer for 10 minutes.</div><div><br></div><div>3. In a medium bowl, combine ricotta and remaining egg. Stir to combine.</div><div><br></div><div>4. In a large baking dish, spoon a thin layer of sauce in the bottom of the dish. Top with half of the spaghetti noodles, cover with about half of the remaining sauce, half of the ricotta mixture and half of the mozzarella. Repeat once more. Bake until the cheese is melty and the lasagna is warmed through, about 20-30 minutes. Garnish with parsley.</div><div><br></div><div>INGREDIENTS</div><div>1 lb. spaghetti</div><div>2 eggs, lightly whisked (divided)</div><div>1/2 c. finely grated Parmesan</div><div>2 tbsp. extra-virgin olive oil</div><div>1 onion, chopped</div><div>3 garlic cloves, minced</div><div>1 lb. ground beef</div><div>2 tbsp. tomato paste</div><div>1 28 oz can crushed tomatoes</div><div>1/4 tsp. dried oregano</div><div>3 c. ricotta</div><div>3 c. shredded mozzarella</div><div>2 tbsp. chopped Italian parsley</div><div><br></div><div>SUBSCRIBE to delish: http://bit.ly/SUBSCRIBEtoDELISH</div><div><br></div><div>FOLLOW for more #DELISH!</div><div>Facebook: https://www.facebook.com/delish/</div><div>Twitter: https://twitter.com/DelishDotCom</div><div>Instagram: https://www.instagram.com/delish/</div><div>Pinterest: https://www.pinterest.com/source/deli...</div><div>Google+: https://plus.google.com/+delish/posts</div><p></p>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-5v",
+          "_params": {
+            "blockTitle": "<h3>Recent Twitter Posts...</h3>",
+            "HTMLCode": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Unique New York City Experiences: A visit to NYC Icon Russ & Daughters <a href=\"https://t.co/q7yzb6Ha7V\">https://t.co/q7yzb6Ha7V</a>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">How to optimize your brand’s Facebook page for business: <a href=\"https://t.co/bAffOM3ryO\">https://t.co/bAffOM3ryO</a> <a href=\"https://t.co/rVGcG8Dral\">pic.twitter.com/rVGcG8Dral</a></p>&mdash; Hootsuite (@hootsuite) <a href=\"https://twitter.com/hootsuite/status/850902377767071744\">April 9, 2017</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+            "paddingTop": 20,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "<h3>Recent Twitter Posts...</h3>",
+          "HTMLCode": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Unique New York City Experiences: A visit to NYC Icon Russ &amp; Daughters</p><p lang=\"en\" dir=\"ltr\"> <a href=\"https://t.co/q7yzb6Ha7V\">https://t.co/q7yzb6Ha7V</a>\n</p><blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">How to optimize your brand’s Facebook page for business: <a href=\"https://t.co/bAffOM3ryO\">https://t.co/bAffOM3ryO</a> <a href=\"https://t.co/rVGcG8Dral\">pic.twitter.com/rVGcG8Dral</a></p>— Hootsuite (@hootsuite) <a href=\"https://twitter.com/hootsuite/status/850902377767071744\">April 9, 2017</a></blockquote>\n<script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></blockquote>\n<script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+          "_styles": {
+            "H3": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-5w",
+          "_params": {
+            "blockTitle": "<h3>Lake Pepin at Dusk..&nbsp;</h3>",
+            "HTMLCode": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-version=\"7\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:8px;\"> <div style=\" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;\"> <div style=\" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;\"></div></div> <p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BSXXuXqhq3v/\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">&#34;Lake Pepin&#34; which separates Minnesota and Wisconsin on the Great River Road (35) at sunset...</a></p> <p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by Joseph Malesky (@squibbler5) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2017-04-02T01:51:11+00:00\">Apr 1, 2017 at 6:51pm PDT</time></p></div></blockquote>\n<script async defer src=\"//platform.instagram.com/en_US/embeds.js\"></script>",
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "<h3>Lake Pepin at Dusk..&nbsp;</h3>",
+          "HTMLCode": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-version=\"7\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:8px;\"> <div style=\" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;\"> <div style=\" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;\"></div></div> <p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BSXXuXqhq3v/\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">&#34;Lake Pepin&#34; which separates Minnesota and Wisconsin on the Great River Road (35) at sunset...</a></p> <p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by Joseph Malesky (@squibbler5) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2017-04-02T01:51:11+00:00\">Apr 1, 2017 at 6:51pm PDT</time></p></div></blockquote>\n<script async defer src=\"//platform.instagram.com/en_US/embeds.js\"></script>"
         },
         {
           "_inherit": "social-buttons2",
