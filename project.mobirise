@@ -249,7 +249,7 @@
           "_name": "header6",
           "_anchor": "header6-5x",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "70",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/spaghetti-lasagna-2-2000x1324.jpg",
