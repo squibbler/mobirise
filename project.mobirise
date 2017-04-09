@@ -301,7 +301,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p><br></p><p>DIRECTIONS</p><div><br></div><div>1. In a large pot of salted boiling water, add spaghetti and cook until al dente, about 8 minutes. Drain water then return the spaghetti to the pot. Add 1 egg and the Parmesan and toss to combine.</div><div><br></div><div>2. Meanwhile, make sauce. In a large pot over medium, heat olive oil. Add onion and cook until tender, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add the ground beef, breaking up the meat with a wooden spoon, and cook until the meat is no longer pink, about 6 minutes. Drain fat then return the pot to medium heat and stir in tomato paste. Cook for 1 minute, then add the crushed tomatoes and oregano. Season with salt and pepper and simmer for 10 minutes.</div><div><br></div><div>3. In a medium bowl, combine ricotta and remaining egg. Stir to combine.</div><div><br></div><div>4. In a large baking dish, spoon a thin layer of sauce in the bottom of the dish. Top with half of the spaghetti noodles, cover with about half of the remaining sauce, half of the ricotta mixture and half of the mozzarella. Repeat once more. Bake until the cheese is melty and the lasagna is warmed through, about 20-30 minutes. Garnish with parsley.</div><div><br></div><div>INGREDIENTS</div><div>1 lb. spaghetti</div><div>2 eggs, lightly whisked (divided)</div><div>1/2 c. finely grated Parmesan</div><div>2 tbsp. extra-virgin olive oil</div><div>1 onion, chopped</div><div>3 garlic cloves, minced</div><div>1 lb. ground beef</div><div>2 tbsp. tomato paste</div><div>1 28 oz can crushed tomatoes</div><div>1/4 tsp. dried oregano</div><div>3 c. ricotta</div><div>3 c. shredded mozzarella</div><div>2 tbsp. chopped Italian parsley</div><div><br></div><div>SUBSCRIBE to delish: http://bit.ly/SUBSCRIBEtoDELISH</div><div><br></div><div>FOLLOW for more #DELISH!</div><div>Facebook: https://www.facebook.com/delish/</div><div>Twitter: https://twitter.com/DelishDotCom</div><div>Instagram: https://www.instagram.com/delish/</div><div>Pinterest: https://www.pinterest.com/source/deli...</div><div>Google+: https://plus.google.com/+delish/posts</div><p></p>"
+          "text": "<p><br></p><p><br></p><p><br></p><p>DIRECTIONS</p><div><br></div><div>1. In a large pot of salted boiling water, add spaghetti and cook until al dente, about 8 minutes. Drain water then return the spaghetti to the pot. Add 1 egg and the Parmesan and toss to combine.</div><div><br></div><div>2. Meanwhile, make sauce. In a large pot over medium, heat olive oil. Add onion and cook until tender, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add the ground beef, breaking up the meat with a wooden spoon, and cook until the meat is no longer pink, about 6 minutes. Drain fat then return the pot to medium heat and stir in tomato paste. Cook for 1 minute, then add the crushed tomatoes and oregano. Season with salt and pepper and simmer for 10 minutes.</div><div><br></div><div>3. In a medium bowl, combine ricotta and remaining egg. Stir to combine.</div><div><br></div><div>4. In a large baking dish, spoon a thin layer of sauce in the bottom of the dish. Top with half of the spaghetti noodles, cover with about half of the remaining sauce, half of the ricotta mixture and half of the mozzarella. Repeat once more. Bake until the cheese is melty and the lasagna is warmed through, about 20-30 minutes. Garnish with parsley.</div><div><br></div><div>INGREDIENTS</div><div>1 lb. spaghetti</div><div>2 eggs, lightly whisked (divided)</div><div>1/2 c. finely grated Parmesan</div><div>2 tbsp. extra-virgin olive oil</div><div>1 onion, chopped</div><div>3 garlic cloves, minced</div><div>1 lb. ground beef</div><div>2 tbsp. tomato paste</div><div>1 28 oz can crushed tomatoes</div><div>1/4 tsp. dried oregano</div><div>3 c. ricotta</div><div>3 c. shredded mozzarella</div><div>2 tbsp. chopped Italian parsley</div><p></p>"
         },
         {
           "alias": "htmlblock",
@@ -309,10 +309,21 @@
             "Extension"
           ],
           "_name": "htmlblock-block",
+          "_styles": {
+            "H3": {
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "htmlblock-block-5v",
           "_params": {
             "blockTitle": "<h3>Recent Twitter Posts...</h3>",
-            "HTMLCode": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Unique New York City Experiences: A visit to NYC Icon Russ & Daughters <a href=\"https://t.co/q7yzb6Ha7V\">https://t.co/q7yzb6Ha7V</a>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">How to optimize your brand’s Facebook page for business: <a href=\"https://t.co/bAffOM3ryO\">https://t.co/bAffOM3ryO</a> <a href=\"https://t.co/rVGcG8Dral\">pic.twitter.com/rVGcG8Dral</a></p>&mdash; Hootsuite (@hootsuite) <a href=\"https://twitter.com/hootsuite/status/850902377767071744\">April 9, 2017</a></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+            "HTMLCode": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Unique New York City Experiences: A visit to NYC Icon Russ & Daughters <a href=\"https://t.co/q7yzb6Ha7V\">https://t.co/q7yzb6Ha7V</a>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">How to optimize your brand’s Facebook page for business: <a href=\"https://t.co/bAffOM3ryO\">https://t.co/bAffOM3ryO</a> <a href=\"https://t.co/rVGcG8Dral\">pic.twitter.com/rVGcG8Dral</a></p></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></blockquote>\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
             "paddingTop": 20,
             "bgImageRadio": true,
             "parallax": true,
@@ -326,18 +337,7 @@
           },
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "blockTitle": "<h3>Recent Twitter Posts...</h3>",
-          "HTMLCode": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Unique New York City Experiences: A visit to NYC Icon Russ &amp; Daughters</p><p lang=\"en\" dir=\"ltr\"> <a href=\"https://t.co/q7yzb6Ha7V\">https://t.co/q7yzb6Ha7V</a>\n</p><blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">How to optimize your brand’s Facebook page for business: <a href=\"https://t.co/bAffOM3ryO\">https://t.co/bAffOM3ryO</a> <a href=\"https://t.co/rVGcG8Dral\">pic.twitter.com/rVGcG8Dral</a></p>— Hootsuite (@hootsuite) <a href=\"https://twitter.com/hootsuite/status/850902377767071744\">April 9, 2017</a></blockquote>\n<script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></blockquote>\n<script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
-          "_styles": {
-            "H3": {
-              "color": "#efefef"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "BLOCKQUOTE": {
-              "color": "#ffffff"
-            }
-          }
+          "HTMLCode": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Unique New York City Experiences: A visit to NYC Icon Russ &amp; Daughters <a href=\"https://t.co/q7yzb6Ha7V\">https://t.co/q7yzb6Ha7V</a>\n</p><blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">How to optimize your brand’s Facebook page for business: <a href=\"https://t.co/bAffOM3ryO\">https://t.co/bAffOM3ryO</a> <a href=\"https://t.co/rVGcG8Dral\">pic.twitter.com/rVGcG8Dral</a></p></blockquote>\n<script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></blockquote>\n<script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
         },
         {
           "_inherit": "social-buttons2",
