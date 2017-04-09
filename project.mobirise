@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "blog.html",
-    "name": "Bliing | Home",
+    "currentPage": "index.html",
+    "name": "Squibbler | Home",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 196,
+    "uniqCompNum": 206,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -54,13 +54,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -74,16 +74,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#2a4545"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#375b5b!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d6565"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -99,20 +99,20 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3v",
           "_params": {
-            "bgColor": "#3d6565",
+            "bgColor": "#000000",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://squibbleblog.weebly.com\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header1",
@@ -168,7 +168,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-img-2000x1333.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -183,8 +183,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<br><span style=\"line-height: 1.1;\">squibbler</span><br>",
-          "text": "<span style=\"line-height: 1.5;\">www.squibbler.github.io/online</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
+          "title": "<br><br>",
+          "text": "<span style=\"line-height: 1.5;\">www.squibbler.github.io</span><br><span style=\"line-height: 1.5;\">Twitter: @squibbler5<br></span>Instagram:@squibbler5<br><span style=\"line-height: 1.5;\">A site hosted on Github<br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -225,6 +225,81 @@
           "title": "Welcome",
           "text": "I'm glad you took the time to visit our page. I have wanted to do this for some time, but like you know there is only so much time in the day to do everything.&nbsp;<br><br>We built our page using Mobirise and other tools because of it's flexibility. We wanted everyone to be able to access it no matter what they were using to view it, typically a Smartphone or a Tablet.&nbsp;<br><br>In the coming months we will be adding features and content, so stay tuned. Updated information will be posted on Twitter and Instagram.<br><br><br>Thanks.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-5o",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/spaghetti-lasagna-1-2000x1324.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/_trAp2O2aRE?rel=0&showinfo=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Recipe of the Week:<br>Spaghetti Lasagna",
+          "text": "Always a favorite around our house is Spaghetti Lasagna<br>and not hard at all to make. Click down to view the recipe. Enjoy!!!<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.youtube.com/channel/UCWMl6Xw3M37ti_C964vmYvg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Delish Channel</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p>DIRECTIONS<div><br></div><div>1. In a large pot of salted boiling water, add spaghetti and cook until al dente, about 8 minutes. Drain water then return the spaghetti to the pot. Add 1 egg and the Parmesan and toss to combine.</div><div><br></div><div>2. Meanwhile, make sauce. In a large pot over medium, heat olive oil. Add onion and cook until tender, about 5 minutes. Stir in garlic and cook until fragrant, about 30 seconds. Add the ground beef, breaking up the meat with a wooden spoon, and cook until the meat is no longer pink, about 6 minutes. Drain fat then return the pot to medium heat and stir in tomato paste. Cook for 1 minute, then add the crushed tomatoes and oregano. Season with salt and pepper and simmer for 10 minutes.</div><div><br></div><div>3. In a medium bowl, combine ricotta and remaining egg. Stir to combine.</div><div><br></div><div>4. In a large baking dish, spoon a thin layer of sauce in the bottom of the dish. Top with half of the spaghetti noodles, cover with about half of the remaining sauce, half of the ricotta mixture and half of the mozzarella. Repeat once more. Bake until the cheese is melty and the lasagna is warmed through, about 20-30 minutes. Garnish with parsley.</div><div><br></div><div>INGREDIENTS</div><div>1 lb. spaghetti</div><div>2 eggs, lightly whisked (divided)</div><div>1/2 c. finely grated Parmesan</div><div>2 tbsp. extra-virgin olive oil</div><div>1 onion, chopped</div><div>3 garlic cloves, minced</div><div>1 lb. ground beef</div><div>2 tbsp. tomato paste</div><div>1 28 oz can crushed tomatoes</div><div>1/4 tsp. dried oregano</div><div>3 c. ricotta</div><div>3 c. shredded mozzarella</div><div>2 tbsp. chopped Italian parsley</div><div><br></div><div>SUBSCRIBE to delish: http://bit.ly/SUBSCRIBEtoDELISH</div><div><br></div><div>FOLLOW for more #DELISH!</div><div>Facebook: https://www.facebook.com/delish/</div><div>Twitter: https://twitter.com/DelishDotCom</div><div>Instagram: https://www.instagram.com/delish/</div><div>Pinterest: https://www.pinterest.com/source/deli...</div><div>Google+: https://plus.google.com/+delish/posts</div></p>"
         },
         {
           "_tags": [
@@ -316,7 +391,7 @@
               "color": "#ffffff"
             }
           },
-          "text4": "<p><a href=\"mailto:squibbler5245@gmail.com\" target=\"_blank\">Email Us</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\"></a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
+          "text4": "<p><a href=\"mailto:squibbler5@outlook.com\">Email Us</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\"></a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
           "title1": "",
           "text5": "",
           "text6": "",
@@ -419,20 +494,20 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4g",
           "_params": {
-            "bgColor": "#3d6565",
+            "bgColor": "#000000",
             "fontSize": "1.05",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": false,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -452,7 +527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">Blog</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://squibbleblog.weebly.com\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "header1",
@@ -542,8 +617,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Welcome",
-          "text": "Squibbler first started as a blog, hosted on Wordpress. But since, it has been dismantled and brought back to life as a website, hosted on Github. I searched in vain to find a hosting company that I liked, to no avail. Github was recommended by a friend, so I tried it. It has a bit of a learning curve at first, but then becomes easier to use. It allows you to record your progress, and even collaborate with others to help, if you so choose to..<br><br>Well, we are happy you decided to drop by. In the coming months we are creating our layout and content for our site, and look forward to sharing them with you.<br><br>Thanks.<br>",
+          "title": "Day One...<br>",
+          "text": "Most of you know Squibbler from Twitter, which is where it started a long time ago. The Urban Dictionary defines a Squibbler as one who communicates with friends and people you like, while away from them.. So it may not be a valid title for a site, but one whose name exemplifies a purpose.&nbsp;<br><br>As this is Day One of our site launch, many changes are planned and new pages will be rolled out soon, including a recipe page, photo gallery and video page",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -636,7 +711,7 @@
               "color": "#ffffff"
             }
           },
-          "text4": "<p><a href=\"mailto:squibbler5245@gmail.com\" target=\"_blank\">Email Us</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\"></a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
+          "text4": "<p><a href=\"mailto:squibbler5@outlook.com\">Email Us</a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-white\"></a><a href=\"mailto:hello.bliingportal@zoho.com\" target=\"_blank\" class=\"text-danger\"></a></p>",
           "title1": "",
           "text5": "",
           "text6": "",
