@@ -213,7 +213,7 @@
             "showButtons": false
           },
           "title": "In This Edition",
-          "text": "March is a guessing game in the garden. Will it warm up soon? Will it stay warm? Will the rains start/stop? About the only thing we can count on is that March too shall pass. So go ahead and push the envelope, but keep the row covers handy. Scroll down to find our article on simple gardening tips can drastically improve your garden....<br><br>",
+          "text": "March is a guessing game in the garden. Will it warm up soon? Will it stay warm? Will the rains start/stop? About the only thing we can count on is that March too shall pass. So go ahead and push the envelope, but keep the row covers handy. Scroll down to find our article on simple gardening tips can drastically improve your garden....<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -233,7 +233,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "IMAGE SLIDER",
                 "showText": true,
@@ -284,7 +284,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "fullScreen": false,
+            "fullScreen": true,
             "bgColor": "#000000",
             "showBullets": true
           },
